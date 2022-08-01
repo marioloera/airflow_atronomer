@@ -5,3 +5,4 @@ astro
 
 # extra python
 *.pyc
+venv
